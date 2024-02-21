@@ -1,0 +1,12 @@
+<svg id="bt_ico_eliminar" xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36">
+  <g id="Grupo_3875" data-name="Grupo 3875" transform="translate(-1313.277 -286.018)">
+    <rect id="Rectángulo_411" data-name="Rectángulo 411" width="36" height="36" rx="4" transform="translate(1313.277 322.018) rotate(-90)" fill="#de0000"/>
+  </g>
+  <g id="Grupo_3876" data-name="Grupo 3876" transform="translate(8.219 6.615)">
+    <path id="Trazado_857" data-name="Trazado 857" d="M448.913,4.418H431.067a.86.86,0,1,1,0-1.72h17.846a.86.86,0,1,1,0,1.72" transform="translate(-430.207 -0.378)" fill="#fff"/>
+    <path id="Trazado_858" data-name="Trazado 858" d="M443.164,3.53a2.263,2.263,0,0,0-4.434,0l-1.687-.341a3.983,3.983,0,0,1,7.806,0Z" transform="translate(-431.164)" fill="#fff"/>
+    <path id="Trazado_859" data-name="Trazado 859" d="M434.417,21.127a1.743,1.743,0,0,1-1.71-1.668l-.89-14.906a.858.858,0,0,1,.806-.91.846.846,0,0,1,.911.807l.89,14.906,11.59.052L446.9,4.449a.86.86,0,0,1,1.717.1l-.89,14.906a1.749,1.749,0,0,1-1.709,1.668h-11.6Z" transform="translate(-430.432 -0.51)" fill="#fff"/>
+    <path id="Trazado_860" data-name="Trazado 860" d="M437.554,18.354a.859.859,0,0,1-.857-.812l-.573-10.248a.86.86,0,1,1,1.717-.1l.573,10.248a.86.86,0,0,1-.811.907h-.049" transform="translate(-430.175 -0.894)" fill="#fff"/>
+    <path id="Trazado_861" data-name="Trazado 861" d="M445.233,18.354h-.049a.86.86,0,0,1-.809-.907L444.948,7.2a.86.86,0,1,1,1.717.1l-.573,10.248a.86.86,0,0,1-.858.812" transform="translate(-433.05 -0.894)" fill="#fff"/>
+  </g>
+</svg>

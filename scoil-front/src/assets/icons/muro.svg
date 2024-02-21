@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="26.104" height="25.796" viewBox="0 0 26.104 25.796">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_901" data-name="Rectángulo 901" width="26.104" height="25.796" fill="none" stroke="#939fad" stroke-width="1.5"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_8061" data-name="Grupo 8061" clip-path="url(#clip-path)">
+    <path id="Trazado_1591" data-name="Trazado 1591" d="M23.4,16.342a6.8,6.8,0,1,1-6.8-6.8A6.8,6.8,0,0,1,23.4,16.342Z" transform="translate(1.814 1.767)" fill="none" stroke="#939fad" stroke-miterlimit="10" stroke-width="1.5"/>
+    <circle id="Elipse_22" data-name="Elipse 22" cx="3.985" cy="3.985" r="3.985" transform="translate(8.22 0.889)" fill="none" stroke="#939fad" stroke-miterlimit="10" stroke-width="1.5"/>
+    <circle id="Elipse_23" data-name="Elipse 23" cx="3.399" cy="3.399" r="3.399" transform="translate(0.889 18.11)" fill="none" stroke="#939fad" stroke-miterlimit="10" stroke-width="1.5"/>
+    <line id="Línea_18" data-name="Línea 18" x2="1.665" y2="3.462" transform="translate(13.976 8.441)" fill="none" stroke="#939fad" stroke-miterlimit="10" stroke-width="1.5"/>
+    <line id="Línea_19" data-name="Línea 19" y1="0.937" x2="4.24" transform="translate(7.578 19.734)" fill="none" stroke="#939fad" stroke-miterlimit="10" stroke-width="1.5"/>
+  </g>
+</svg>

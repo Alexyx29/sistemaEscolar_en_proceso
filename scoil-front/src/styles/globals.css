@@ -1,0 +1,617 @@
+/* estilos de CALENDARIO */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.cropper-view-box{border-radius: 50%;}
+#__next{width: 100%;;height: 100%;}
+
+/* Quita la barra de scroll del cuerpo del Layout */
+main::-webkit-scrollbar{
+    display: none;
+}
+.generalScroll::-webkit-scrollbar{
+  display: none;
+}
+
+/* Quita la barra de scroll del cuerpo del calendario */
+#cal .fc .fc-scroller-liquid-absolute::-webkit-scrollbar {
+  display: none;
+}
+#cal .fc .fc-scroller::-webkit-scrollbar {
+  display: none;
+}
+
+#cal .fc-theme-standard td,
+#cal .fc-theme-standard th {
+  border: 0px solid var(--fc-border-color);
+  border-radius: 1px;
+}
+
+#cal .fc-theme-standard 
+.fc-scrollgrid {
+  border: 0px solid var(--fc-border-color);
+}
+
+#cal .fc table {
+  font-size: 18px;
+  /* font-family: "Myriad Pro", sans-serif; */
+}
+
+#cal .fc
+.fc-daygrid-day-top {
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: center;
+  align-items: center;
+}
+
+#cal .fc
+.fc-daygrid-body-unbalanced
+.fc-daygrid-day-events {
+  position: relative;
+  min-height: auto;
+}
+
+#cal .fc
+.fc-daygrid-day.fc-day-today {
+  /* background-color: #4A61CE; */
+  border-radius: 50%;
+  color: #FFFFFF;
+  font-weight: bold;
+  font-family: "Open Sans", sans-serif;
+  scale: 60%;
+  font-size: 32px;
+  line-height: 1.5;
+}
+
+#cal .fc-day {
+  
+}
+
+#cal .fc th {
+  font-size: 14px;
+  text-transform: uppercase;
+  color: #BCBABB;
+}
+
+#cal .fc .fc-scrollgrid-section-footer > *,
+#cal .fc .fc-scrollgrid-section-header > * {
+  border-bottom-width: 20px;
+  border-bottom-color: #F7F8F9;
+}
+
+#cal .fc .fc-daygrid-day-frame {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+#cal .fc-day-today::before {
+  content: '';
+  width: 60px; 
+
+  height: 60px;
+  /* width: 150%; */
+  /* top: -2px; */
+  /* left: -25%; */
+  background-color: #0082C9;
+  position: absolute;
+  border-radius: 100%;
+  top: 50%; /* Centrar verticalmente */
+  left: 50%; /* Centrar horizontalmente */
+  transform: translate(-50%, -50%); 
+}
+
+#cal .fc-day-today {
+  /* background: transparent; */
+  position: relative;
+}
+
+.fc .fc-scroller-liquid-absolute {
+    inset: 0px;
+     position: relative; 
+}
+
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+.colorAtten {
+  background: rgb(18, 211, 18) ;
+}
+
+.news::-webkit-scrollbar{
+  display: none;
+}
+
+/************************* CalSectionStudent ***************************/
+
+#calSectionStudent .fc .fc-col-header-cell-cushion {
+  text-transform: capitalize;
+  font-weight: bold;
+  color: #6B6862;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 25px;
+}
+
+#calSectionStudent .fc .fc-scrollgrid-section-footer > *, .fc .fc-scrollgrid-section-header > * {
+  border-bottom-width: 0;
+}
+
+#calSectionStudent .fc-theme-standard th {
+  border: 0px solid var(--fc-border-color);
+  border-right: 1px solid;
+  border-left: 1px solid;
+  border-color: #707070;
+  border-radius: 1px;
+}
+
+#calSectionStudent .fc .fc-scrollgrid-section-header > * {
+  border-bottom-width: 0px;
+  /* border-top-width: 1px;
+  border-right-width: 1px;
+  border-left-width: 1px;
+  border-bottom-color: #707070;
+  border-left-color: #707070;
+  border-top-color: #707070;
+  border-right-color: #707070; */
+}
+
+#calSectionStudent .fc .fc-daygrid-day.fc-day-today {
+  background-color:#FFFFFF;
+}
+
+#calSectionStudent .fc .fc-timegrid-col.fc-day-today {
+  background-color: #FFFFFF;
+}
+
+#calSectionStudent .fc .fc-timegrid-slot-minor {
+  border-top-style: dotted;
+  display: none; 
+}
+
+#calSectionStudent .fc .fc-timegrid-axis-cushion, .fc .fc-timegrid-slot-label-cushion {
+  padding-top: 24px;
+  font-size: 18px;
+  color: #6B6862;
+  font-family: 'Open Sans', sans-serif;
+  line-height: 1;
+}
+
+#calSectionStudent .fc .fc-timegrid-slot-label {  
+  height: 45px;
+}
+
+#calSectionStudent th.fc-timegrid-axis {  
+  border-top: 0px;
+  border-left: 0px;
+}
+
+#calSectionStudent .fc-button-group {
+  margin-right: 250px;
+}
+
+#calSectionStudent th.fc-col-header-cell.fc-day.fc-day-thu.fc-day-today {
+  border-left-width: 0px;
+}
+
+#calSectionStudent th.fc-col-header-cell.fc-day.fc-day-fri {
+  border-left-width: 0px;
+}
+
+#calSectionStudent th.fc-col-header-cell.fc-day.fc-day-thu {
+  border-left-width: 0px;
+}
+
+#calSectionStudent th.fc-col-header-cell.fc-day.fc-day-wed {
+  border-left-width: 0px;
+}
+
+#calSectionStudent th.fc-col-header-cell.fc-day.fc-day-tue {
+  border-left-width: 0px;
+}
+
+#calSectionStudent th.fc-col-header-cell.fc-day.fc-day-mon {
+  border-left-width: 0px;
+}
+
+#calSectionStudent th.fc-col-header-cell.fc-day.fc-day-sat {
+  border-left-width: 0px;
+}
+
+#calSectionStudent .fc-daygrid-day-frame.fc-scrollgrid-sync-inner:hover {
+  background-color: #FAFAFA;  
+  border-color: #000000;
+}
+
+#calSectionStudent .fc-timegrid-day-frame:hover {
+  background-color: #000; /* Cambia el color a tu elección */
+}
+
+#calSectionStudent th.fc-timegrid-axis {
+  border-right-width: 0px;
+}
+
+#calSectionStudent .fc .fc-daygrid-day-number {
+  font-size: 18px;
+  font-family: 'Open Sans', sans-serif;
+  color: #6B6862;
+}
+
+#calSectionStudent td.fc-timegrid-slot.fc-timegrid-slot-lane {
+  width: 5000px;
+}
+
+#calSectionStudent .fc-scroller.fc-scroller-liquid-absolute {
+  border-top-width: 1px;  
+}
+
+/* Quitar barras de scorll */
+#calSectionStudent .fc-scroller.fc-scroller-liquid-absolute::-webkit-scrollbar {  
+  display:none;
+}
+
+#calSectionStudent .fc-scroller::-webkit-scrollbar {
+  display: none;
+}
+
+#calSectionStudent .fc .fc-scrollgrid-section > * {
+  border-left-width: 0px;
+  border-top-width: 0px;
+}
+
+#calSectionStudent .fc-timegrid-slots {
+  border-left-width: 1px;
+}
+
+#calSectionStudent table.fc-scrollgrid.fc-scrollgrid-liquid {
+  border-left-width: 0px;
+  border-top-width: 0px;
+}
+
+#calSectionStudent .fc-scrollgrid-sync-inner {
+  border-top: 1px solid;
+  border-bottom: 1px solid;
+}
+
+#calSectionStudent .fc-timegrid-event .fc-event-time {  
+  display: none;
+  border: 0PX;
+}
+
+#calSectionStudent .fc-v-event {
+  background-color: #FFFFFF;  
+  display: block;
+}
+
+#calSectionStudent .fc-event-title.fc-sticky {
+  color: black;
+  height: 100%;
+  font-size: 18px;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 600;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  line-height: normal;
+  justify-content: center;
+}
+
+#calSectionStudent a.fc-event.fc-event-start.fc-event-end.fc-event-past.fc-timegrid-event.fc-v-event {
+  border: 0px;
+  width: 100%;
+}
+
+#calSectionStudent .fc-timegrid-event-harness > .fc-timegrid-event {
+  inset: 1px;
+  position: absolute;
+}
+
+#calSectionStudent .fc-timegrid-event-harness.fc-timegrid-event-harness-inset {
+  width: 100%;
+}
+
+#calSectionStudent col {
+  width: 75px !important;
+}
+
+/************************* CalSectionStudentAula ***************************/
+
+#calSectionAula .fc .fc-scroller-liquid-absolute::-webkit-scrollbar {
+  display: none;
+}
+#calSectionAula .fc .fc-scroller::-webkit-scrollbar {
+  display: none;
+}
+
+#calSectionAula .fc-theme-standard td,
+#calSectionAula .fc-theme-standard th {
+  border: 0px solid var(--fc-border-color);
+  border-radius: 1px;
+}
+
+#calSectionAula .fc-theme-standard 
+.fc-scrollgrid {
+  border: 0px solid var(--fc-border-color);
+}
+
+#calSectionAula .fc table {
+  font-size: 14px;
+  /* font-family: "Myriad Pro", sans-serif; */
+}
+
+#calSectionAula .fc
+.fc-daygrid-day-top {
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: center;
+  align-items: center;
+}
+
+#calSectionAula .fc
+.fc-daygrid-body-unbalanced
+.fc-daygrid-day-events {
+  position: relative;
+  min-height: auto;
+}
+
+#calSectionAula .fc
+.fc-daygrid-day.fc-day-today {
+  /* background-color: #4A61CE; */
+  border-radius: 50%;
+  color: #FFFFFF;
+  font-weight: bold;
+  font-family: "Open Sans", sans-serif;
+  scale: 50%;
+  font-size: 30px;
+  line-height: 1.5;
+}
+
+#calSectionAula .fc th {
+  font-size: 12px;
+  text-transform: uppercase;
+  color: #BCBABB;
+}
+
+#calSectionAula .fc .fc-scrollgrid-section-footer > *,
+#calSectionAula .fc .fc-scrollgrid-section-header > * {
+  border-bottom-width: 10px;
+  border-bottom-color: #FFFFFF;
+}
+
+#calSectionAula .fc .fc-daygrid-day-frame {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+
+
+#calSectionAula .fc-day-today::before {
+  content: '';
+  width: 60px; 
+
+  height: 60px;
+  /* width: 150%; */
+  /* top: -2px; */
+  /* left: -25%; */
+  background-color: #0082C9;
+  position: absolute;
+  border-radius: 100%;
+  top: 50%; /* Centrar verticalmente */
+  left: 50%; /* Centrar horizontalmente */
+  transform: translate(-50%, -50%); 
+}
+
+#calSectionAula .fc-day-today {
+  /* background: transparent; */
+  position: relative;
+}
+.ql-container{min-height: 500px;height: 100%;flex: 1;display: flex;flex-direction: column;}
+.ql-editor{height: 100%;flex: 1;overflow-y: auto;width: 100%;}
+
+.truncate-lines-3 {
+
+  overflow: hidden;
+  line-height: 1rem; /* Ajusta según tus preferencias de altura de línea */
+  height: 3rem; /* Ajusta según tus preferencias de altura máxima (line-height * número de líneas) */
+  
+/*  white-space: nowrap;*/
+  text-overflow: ellipsis;
+}
+
+/***************** CalSectionProfesor  *********************/
+#calSectionParent .fc .fc-col-header-cell-cushion {
+  text-transform: capitalize;
+  font-weight: bold;
+  color: #6B6862;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 25px;
+}
+
+#calSectionParent .fc .fc-scrollgrid-section-footer > *, .fc .fc-scrollgrid-section-header > * {
+  border-bottom-width: 0;
+}
+
+#calSectionParent .fc-theme-standard th {
+  border: 0px solid var(--fc-border-color);
+  border-right: 1px solid;
+  border-left: 1px solid;
+  border-color: #707070;
+  border-radius: 1px;
+}
+
+#calSectionParent .fc .fc-scrollgrid-section-header > * {
+  border-bottom-width: 0px;
+  /* border-top-width: 1px;
+  border-right-width: 1px;
+  border-left-width: 1px;
+  border-bottom-color: #707070;
+  border-left-color: #707070;
+  border-top-color: #707070;
+  border-right-color: #707070; */
+}
+
+#calSectionParent .fc .fc-daygrid-day.fc-day-today {
+  background-color:#FFFFFF;
+}
+
+#calSectionParent .fc .fc-timegrid-col.fc-day-today {
+  background-color: #FFFFFF;
+}
+
+#calSectionParent .fc .fc-timegrid-slot-minor {
+  border-top-style: dotted;
+  display: none; 
+}
+
+#calSectionParent .fc .fc-timegrid-axis-cushion, .fc .fc-timegrid-slot-label-cushion {
+  padding-top: 24px;
+  font-size: 18px;
+  color: #6B6862;
+  font-family: 'Open Sans', sans-serif;
+  line-height: 1;
+}
+
+#calSectionParent .fc .fc-timegrid-slot-label {  
+  height: 45px;
+}
+
+#calSectionParent th.fc-timegrid-axis {  
+  border-top: 0px;
+  border-left: 0px;
+}
+
+#calSectionParent .fc-button-group {
+  margin-right: 250px;
+}
+
+#calSectionParent th.fc-col-header-cell.fc-day.fc-day-thu.fc-day-today {
+  border-left-width: 0px;
+}
+
+#calSectionParent th.fc-col-header-cell.fc-day.fc-day-fri {
+  border-left-width: 0px;
+}
+
+#calSectionParent th.fc-col-header-cell.fc-day.fc-day-thu {
+  border-left-width: 0px;
+}
+
+#calSectionParent th.fc-col-header-cell.fc-day.fc-day-wed {
+  border-left-width: 0px;
+}
+
+#calSectionParent th.fc-col-header-cell.fc-day.fc-day-tue {
+  border-left-width: 0px;
+}
+
+#calSectionParent th.fc-col-header-cell.fc-day.fc-day-mon {
+  border-left-width: 0px;
+}
+
+#calSectionParent th.fc-col-header-cell.fc-day.fc-day-sat {
+  border-left-width: 0px;
+}
+
+#calSectionParent .fc-daygrid-day-frame.fc-scrollgrid-sync-inner:hover {
+  background-color: #FAFAFA;  
+  border-color: #000000;
+}
+
+#calSectionParent .fc-timegrid-day-frame:hover {
+  background-color: #000; /* Cambia el color a tu elección */
+}
+
+#calSectionParent th.fc-timegrid-axis {
+  border-right-width: 0px;
+}
+
+#calSectionParent .fc .fc-daygrid-day-number {
+  font-size: 18px;
+  font-family: 'Open Sans', sans-serif;
+  color: #6B6862;
+}
+
+#calSectionParent td.fc-timegrid-slot.fc-timegrid-slot-lane {
+  width: 5000px;
+}
+
+#calSectionParent .fc-scroller.fc-scroller-liquid-absolute {
+  border-top-width: 1px;  
+}
+
+/* Quitar barras de scorll */
+#calSectionParent .fc-scroller.fc-scroller-liquid-absolute::-webkit-scrollbar {  
+  display:none;
+}
+
+#calSectionParent .fc-scroller::-webkit-scrollbar {
+  display: none;
+}
+
+#calSectionParent .fc .fc-scrollgrid-section > * {
+  border-left-width: 0px;
+  border-top-width: 0px;
+}
+
+#calSectionParent .fc-timegrid-slots {
+  border-left-width: 1px;
+}
+
+#calSectionParent table.fc-scrollgrid.fc-scrollgrid-liquid {
+  border-left-width: 0px;
+  border-top-width: 0px;
+}
+
+#calSectionParent .fc-scrollgrid-sync-inner {
+  border-top: 1px solid;
+  border-bottom: 1px solid;
+}
+
+#calSectionParent .fc-timegrid-event .fc-event-time {  
+  display: none;
+  border: 0PX;
+}
+
+#calSectionParent .fc-v-event {
+  background-color: #FFFFFF;  
+  display: block;
+}
+
+#calSectionParent .fc-event-title.fc-sticky {
+  color: black;
+  height: 100%;
+  font-size: 18px;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 600;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  line-height: normal;
+  justify-content: center;
+}
+
+#calSectionParent a.fc-event.fc-event-start.fc-event-end.fc-event-past.fc-timegrid-event.fc-v-event {
+  border: 0px;
+  width: 100%;
+}
+
+#calSectionParent .fc-timegrid-event-harness > .fc-timegrid-event {
+  inset: 1px;
+  position: absolute;
+}
+
+#calSectionParent .fc-timegrid-event-harness.fc-timegrid-event-harness-inset {
+  width: 100%;
+}
+
+
+/* ESTILOS PARA "AVISOS"  */
+label.font-open.text-gray-not-text.text-\[12px\].leading-none.cursor-pointer.flex {
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}

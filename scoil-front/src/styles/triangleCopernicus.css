@@ -1,0 +1,17 @@
+
+.triangulo-containerCopernicus {
+    @apply absolute top-0 right-[0];
+    width: 100%; /* Ancho del contenedor */
+    height: 400px; /* Altura del contenedor */
+    overflow: hidden;
+  }
+
+.trianguloCopernicus {
+    @apply absolute top-0 right-0;
+    /* width: 0;
+    height: 0; */
+    border-right: 102vh solid transparent; /* Ajusta el ancho de la base del triángulo */
+    border-top: 400px solid #FBF9F3;
+    /* transform: rotate(360deg); */
+   
+    }

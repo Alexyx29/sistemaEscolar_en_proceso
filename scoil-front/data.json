@@ -1,0 +1,1394 @@
+{
+    "student": {
+        "data": {
+            "id": 1,
+            "name": "Lara Sofía",
+            "lastName": "Laborde Revilla",
+            "degree": "Lic. en Administración",
+            "enrolment": "50CK28",
+            "average": 8.2,
+            "currentCourse": "PRIMER CUATRIMESTRE"
+        },
+        "alerts": {
+            "notifications": 22
+        },
+        "earrings": {
+            "evaluations": [
+                {
+                    "date": "21/03/30",
+                    "title": "Matemáticas"
+                },
+                {
+                    "date": "21/03/30",
+                    "title": "CIencias de la comunicación"
+                }
+            ],
+            "tasks": [
+                {
+                    "date": "21/03/26",
+                    "title": "Cuadro sinóptico comparativo"
+                },
+                {
+                    "date": "21/03/28",
+                    "title": "Balanza comercial"
+                },
+                {
+                    "date": "21/03/26",
+                    "title": "Ensayo argumentativo del libro Padre..."
+                },
+                {
+                    "date": "21/03/30",
+                    "title": "Gráfica Gantt"
+                }
+            ]
+        },
+        "payments": {
+            "date": "15 de julio de 2023",
+            "amount": "$1,570.00"
+        },
+        "subjects": [
+            {
+                "name": "Matemáticas I",
+                "score": 10,
+                "assistance": 100,
+                "schedule": "07/05/2023 - 07/09/2023",
+                "professorName": "Manuel Alberto",
+                "professorLastName": "Rosales San Agustín",
+                "course" : "Primer Cuatrimestre",
+                "scales": [
+                    {
+                        "title": "Asistencia",
+                        "score": 6,
+                        "scale":10,
+                        "params": [
+                            {
+                                "title": "Asistencia",
+                                "score": 10,
+                                "scale" :10
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Examen",
+                        "score":  50,
+                        "scale": 60,
+                        "params": [
+                            {
+                                "title": "Resumen de conceptos",
+                                "score": 10,
+                                "scale": 10
+                            },
+                            {
+                                "title": "Análisis profundo de Teorías Administrativas",
+                                "score": 10,
+                                "scale": 20
+                            },
+                            {
+                                "title": "Innovación y Cambio Empresarial",
+                                "score": 10,
+                                "scale": 10
+                            },
+                            {
+                                "title": "Gestión Estratégica de Recursos y Talento",
+                                "score": 20,
+                                "scale": 20
+                            }                    
+                        ]
+                    },
+                    {
+                        "title": "Tareas",
+                        "score":  15,
+                        "scale": 30,
+                        "params": [
+                            {
+                                "title": "Análisis de Caso: Estrategias de Liderazgo",
+                                "score": 10,
+                                "scale": 10
+                            },
+                            {
+                                "title": "Desarrollo de un Plan Empresarial Básico",
+                                "score": 0,
+                                "scale": 20
+                            },
+                            {
+                                "title": "Resolución de Conflictos Organizacionales",
+                                "score": 0,
+                                "scale": 20
+                            }       
+                        ]
+                    },
+                    {
+                        "title": "Puntos Extra",
+                        "score":  12,
+                        "scale": 15,
+                        "params": [
+                            {
+                                "title": "Ensayo. La Evolución del Liderazgo Empresarial: Retos y Perspectivas",
+                                "score": 15,
+                                "scale": 15
+                            } 
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Estrategias para el estudio y la c...",
+                "score": 6.4,
+                "assistance": 75,
+                "schedule": "07/05/2023 - 07/09/2023",
+                "professorName": "Manuel Alberto",
+                "professorLastName": "Rosales San Agustín",
+                "course" : "Primer Cuatrimestre",
+                "scales": [
+                    {
+                        "title": "Asistencia",
+                        "score": 10,
+                        "scale":10,
+                        "params": [
+                            {
+                                "title": "Asistencia",
+                                "score": 10,
+                                "scale" :10
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Examen",
+                        "score":  50,
+                        "scale": 60,
+                        "params": [
+                            {
+                                "title": "Resumen de conceptos",
+                                "score": 10,
+                                "scale": 10
+                            },
+                            {
+                                "title": "Análisis profundo de Teorías Administrativas",
+                                "score": 10,
+                                "scale": 20
+                            }                   
+                        ]
+                    },
+                    {
+                        "title": "Tareas",
+                        "score":  10,
+                        "scale": 30,
+                        "params": [
+                            {
+                                "title": "Análisis de Caso: Estrategias de Liderazgo",
+                                "score": 10,
+                                "scale": 10
+                            },
+                            {
+                                "title": "Ensayo",
+                                "score": 10,
+                                "scale": 10
+                            }      
+                        ]
+                    },
+                    {
+                        "title": "Puntos Extra",
+                        "score":  12,
+                        "scale": 15,
+                        "params": [
+                            {
+                                "title": "Ensayo.",
+                                "score": 15,
+                                "scale": 15
+                            } 
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Introducción al Derecho",
+                "score": 9.9,
+                "assistance": 100,
+                "schedule": "07/05/2023 - 07/09/2023",
+                "professorName": "Manuel Alberto",
+                "professorLastName": "Rosales San Agustín",
+                "course" : "Primer Cuatrimestre",
+                "scales": [
+                    {
+                        "title": "Asistencia",
+                        "score": 10,
+                        "scale":10,
+                        "params": [
+                            {
+                                "title": "Asistencia",
+                                "score": 10,
+                                "scale" :10
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Examen",
+                        "score":  50,
+                        "scale": 60,
+                        "params": [
+                            {
+                                "title": "Resumen de conceptos",
+                                "score": 10,
+                                "scale": 10
+                            },
+                            {
+                                "title": "Análisis profundo de Teorías Administrativas",
+                                "score": 10,
+                                "scale": 20
+                            },
+                            {
+                                "title": "Análisis de Caso: Estrategias de Liderazgo",
+                                "score": 10,
+                                "scale": 10
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Tareas",
+                        "score":  10,
+                        "scale": 30,
+                        "params": [
+                            {
+                                "title": "Análisis de Caso: Estrategias de Liderazgo",
+                                "score": 10,
+                                "scale": 10
+                            },
+                            {
+                                "title": "Ensayo argumentativo del libro Padre...",
+                                "score": 10,
+                                "scale": 10
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Puntos Extra",
+                        "score":  12,
+                        "scale": 15,
+                        "params": [
+                            {
+                                "title": "Ensayo.",
+                                "score": 15,
+                                "scale": 15
+                            } 
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Contabilidad I",
+                "score": 9.8,
+                "assistance": 100,
+                "schedule": "07/05/2023 - 07/09/2023",
+                "professorName": "Manuel Alberto",
+                "professorLastName": "Rosales San Agustín",
+                "course" : "Primer Cuatrimestre",
+                "scales": [
+                    {
+                        "title": "Asistencia",
+                        "score": 10,
+                        "scale":10,
+                        "params": [
+                            {
+                                "title": "Asistencia",
+                                "score": 10,
+                                "scale" :10
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Examen",
+                        "score":  50,
+                        "scale": 60,
+                        "params": [
+                            {
+                                "title": "Resumen de conceptos",
+                                "score": 10,
+                                "scale": 10
+                            },
+                            {
+                                "title": "Análisis profundo de Teorías Administrativas",
+                                "score": 10,
+                                "scale": 20
+                            },
+                            {
+                                "title": "Ensayo",
+                                "score": 10,
+                                "scale": 10
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Tareas",
+                        "score":  10,
+                        "scale": 30,
+                        "params": [
+                            {
+                                "title": "Análisis de Caso: Estrategias de Liderazgo",
+                                "score": 10,
+                                "scale": 10
+                            },
+                            {
+                                "title": "Ensayo",
+                                "score": 10,
+                                "scale": 10
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Puntos Extra",
+                        "score":  12,
+                        "scale": 15,
+                        "params": [
+                            {
+                                "title": "Ensayo.",
+                                "score": 15,
+                                "scale": 15
+                            } 
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Informática I",
+                "score": 3.2,
+                "assistance": 50,
+                "schedule": "07/05/2023 - 07/09/2023",
+                "professorName": "Manuel Alberto",
+                "professorLastName": "Rosales San Agustín",
+                "course" : "Primer Cuatrimestre",
+                "scales": [
+                    {
+                        "title": "Asistencia",
+                        "score": 10,
+                        "scale":10,
+                        "params": [
+                            {
+                                "title": "Asistencia",
+                                "score": 10,
+                                "scale" :10
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Examen",
+                        "score":  50,
+                        "scale": 60,
+                        "params": [
+                            {
+                                "title": "Resumen de conceptos",
+                                "score": 10,
+                                "scale": 10
+                            },
+                            {
+                                "title": "Análisis profundo de Teorías Administrativas",
+                                "score": 10,
+                                "scale": 20
+                            },
+                            {
+                                "title": "Ensayo",
+                                "score": 10,
+                                "scale": 10
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Tareas",
+                        "score":  10,
+                        "scale": 30,
+                        "params": [
+                            {
+                                "title": "Análisis de Caso: Estrategias de Liderazgo",
+                                "score": 10,
+                                "scale": 10
+                            }      
+                        ]
+                    },
+                    {
+                        "title": "Puntos Extra",
+                        "score":  12,
+                        "scale": 15,
+                        "params": [
+                            {
+                                "title": "Ensayo.",
+                                "score": 15,
+                                "scale": 15
+                            } 
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Introducción a la Administración",
+                "score": 8.2,
+                "assistance": 80,
+                "schedule": "07/05/2023 - 07/09/2023",
+                "professorName": "Manuel Alberto",
+                "professorLastName": "Rosales San Agustín",
+                "course" : "Primer Cuatrimestre",
+                "scales": [
+                    {
+                        "title": "Asistencia",
+                        "score": 10,
+                        "scale":10,
+                        "params": [
+                            {
+                                "title": "Asistencia",
+                                "score": 10,
+                                "scale" :10
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Examen",
+                        "score":  50,
+                        "scale": 60,
+                        "params": [
+                            {
+                                "title": "Resumen de conceptos",
+                                "score": 10,
+                                "scale": 10
+                            },
+                            {
+                                "title": "Análisis profundo de Teorías Administrativas",
+                                "score": 10,
+                                "scale": 20
+                            }                   
+                        ]
+                    },
+                    {
+                        "title": "Tareas",
+                        "score":  10,
+                        "scale": 30,
+                        "params": [
+                            {
+                                "title": "Análisis de Caso: Estrategias de Liderazgo",
+                                "score": 10,
+                                "scale": 10
+                            },
+                            {
+                                "title": "Ensayo",
+                                "score": 10,
+                                "scale": 10
+                            }   
+                        ]
+                    },
+                    {
+                        "title": "Puntos Extra",
+                        "score":  12,
+                        "scale": 15,
+                        "params": [
+                            {
+                                "title": "Ensayo.",
+                                "score": 15,
+                                "scale": 15
+                            } 
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Marketing",
+                "score": 10,
+                "assistance": 100,
+                "schedule": "07/05/2023 - 07/09/2023",
+                "professorName": "Manuel Alberto",
+                "professorLastName": "Rosales San Agustín",
+                "course" : "Primer Cuatrimestre",
+                "scales": [
+                    {
+                        "title": "Asistencia",
+                        "score": 10,
+                        "scale":10,
+                        "params": [
+                            {
+                                "title": "Asistencia",
+                                "score": 10,
+                                "scale" :10
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Examen",
+                        "score":  50,
+                        "scale": 60,
+                        "params": [
+                            {
+                                "title": "Resumen de conceptos",
+                                "score": 10,
+                                "scale": 10
+                            },
+                            {
+                                "title": "Análisis profundo de Teorías Administrativas",
+                                "score": 10,
+                                "scale": 20
+                            },
+                            {
+                                "title": "Ensayo",
+                                "score": 10,
+                                "scale": 10
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Tareas",
+                        "score":  10,
+                        "scale": 30,
+                        "params": [
+                            {
+                                "title": "Análisis de Caso: Estrategias de Liderazgo",
+                                "score": 10,
+                                "scale": 10
+                            }      
+                        ]
+                    },
+                    {
+                        "title": "Puntos Extra",
+                        "score":  12,
+                        "scale": 15,
+                        "params": [
+                            {
+                                "title": "Ensayo.",
+                                "score": 15,
+                                "scale": 15
+                            } 
+                        ]
+                    }
+                ]
+            }
+        ],
+        "qualifications": [
+            {
+                "name": "Examen de Matemáticas",
+                "date": "21/08/23",
+                "score": 10
+            },
+            {
+                "name": "Trabajo Práctico de Trigonometría",
+                "date": "18/08/23",
+                "score": 9
+            },
+            {
+                "name": "Tarea",
+                "date": "18/08/23",
+                "score": 10
+            },
+            {
+                "name": "Tarea",
+                "date": "17/08/23",
+                "score": 0
+            },
+            {
+                "name": "Examen de Matemáticas",
+                "date": "06/08/23",
+                "score": 6
+            }
+        ],
+        "assistances": [
+            {
+                "date": "21/08/2023",
+                "scale": 67
+            },
+            {
+                "date": "18/08/2023",
+                "scale": 62
+            },
+            {
+                "date": "17/08/2023",
+                "scale": 57
+            },
+            {
+                "date": "16/08/2023",
+                "scale": 50
+            },
+            {
+                "date": "15/08/2023",
+                "scale": 40
+            },
+            {
+                "date": "14/08/2023",
+                "scale": 50
+            },
+            {
+                "date": "11/08/2023",
+                "scale": 66
+            },
+            {
+                "date": "10/08/2023",
+                "scale": 100
+            },
+            {
+                "date": "09/08/2023",
+                "scale": 100
+            }
+        ],
+        "exams":[
+            {"name":"Matemática II", "schedule":"20/08/2023-00:00hs. 28/08/2023-24:00 hs.","duration":"45 minutos", "active": true},
+            {"name":"Matemática II", "schedule":"22/08/2023-12:00 hs. - 13:00 hs","duration":"1:00 hora", "active": false}
+        ],
+        "tasks":[
+            {"name":"Matemática II", "schedule":"20/08/2023-00:00hs. 28/08/2023-24:00 hs.", "active": true, "description": "5 Ejercicios de Trigonometría sobre lo analizado en clase."}            
+        ]
+    },
+    "notices": [
+        {
+            "title": "Sit amet onsectetur",
+            "content": "Ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua dolor sit amet, consectetur adipiscing…"
+        },
+        {
+            "title": "Lorem ipsum",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod dolor sit amet, consectetur."
+        },
+        {
+            "title": "sed do eiusmod tempor",
+            "content": "Dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua adipiscing elit, sed do eiusmod tempor…"
+        },
+        {
+            "title": "incididunt ut labore et dolore ",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna adipis cing elit, sed do eiusmod tempor  aliqua…"
+        },
+        {
+            "title": "sed do eiusmod",
+            "content": "sed do eiusmod lorem ipsum dolor sit amet, adipiscing elit, sed do eiusmod tempor consectetur adipiscing elit."
+        },
+        {
+            "title": "Sit amet",
+            "content": "Lorem ipsum dolor sit amet, consectetur."
+        },
+        {
+            "title": " incididunt ut labore et dolore magna",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna adipis cing elit, sed do eiusmod tempor  aliqua…"
+        }
+    ],
+    "classroom": {
+        "videoTitle": "Título del video",
+        "description": "Subtítulo expresado en dos renglones que se reduce para los casos de responsividad en celulares, en donde mostrará menos texto del subtítulo."
+    },
+    "parents": {
+        "totals": {
+            "assistances": 802,
+            "missSchool": 112,
+            "delays": 438,
+            "justified": 45,
+            "canceled": 15,
+            "percentage": "96%"
+        },
+        "semesters": [
+            {
+                "semester": "SEMESTRE 1",
+                "assistances": 723,
+                "missSchool": 92,
+                "delays": 326,
+                "justified": 18,
+                "canceled": "5",
+                "percentage": "92%"
+            }
+        ],
+        "assistances": [
+            {
+                "monthData": {
+                    "month": "AGOSTO",
+                    "assistances": 136,
+                    "missSchool": 45,
+                    "delays": 36,
+                    "justified": 2,
+                    "canceled": 1,
+                    "percentage": "90%",
+                    "days": [
+                        "Mar 01",
+                        "Mié 02",
+                        "Jue 03",
+                        "Vie 04",
+                        "Lun 07",
+                        "Mar 08",
+                        "Mié 09",
+                        "Jue 10",
+                        "Vie 11",
+                        "Lun 14",
+                        "Mar 15",
+                        "Mié 16",
+                        "Jue 17",
+                        "Vie 18",
+                        "Lun 21",
+                        "Mar 22",
+                        "Mié 23",
+                        "Jue 24",
+                        "Vie 25",
+                        "Lun 28",
+                        "Mar 29",
+                        "Mié 30",
+                        "Jue 31"
+                    ]
+                },
+                "especificData": [
+                    {
+                        "subject": "Informática I",
+                        "assistances": 21,
+                        "missSchool": 0,
+                        "delays": 7,
+                        "justified": 0,
+                        "canceled": 1,
+                        "percentage": "100%",
+                        "list": [
+                            "justified",
+                            "justified",
+                            "canceled",
+                            "justified",
+                            "delay",
+                            "assistance",
+                            "assistance",
+                            "justified",
+                            "assistance",
+                            "missSchool",
+                            "canceled",
+                            "missSchool",
+                            "justified",
+                            "justified",
+                            "assistance",
+                            "missSchool",
+                            "delay",
+                            "canceled",
+                            "justified",
+                            "assistance",
+                            "missSchool",
+                            "canceled",
+                            "delay"
+                        ]
+                    },
+                    {
+                        "subject": "Administración básica",
+                        "assistances": 22,
+                        "missSchool": 2,
+                        "delays": 11,
+                        "justified": 1,
+                        "canceled": 0,
+                        "percentage": "88%",
+                        "list": [
+                            "assistance",
+                            "missSchool",
+                            "canceled",
+                            "delay",
+                            "assistance",
+                            "canceled",
+                            "delay",
+                            "justified",
+                            "delay",
+                            "canceled",
+                            "assistance",
+                            "delay",
+                            "canceled",
+                            "canceled",
+                            "justified",
+                            "delay",
+                            "delay",
+                            "delay",
+                            "missSchool",
+                            "missSchool",
+                            "assistance",
+                            "missSchool",
+                            "delay"
+                        ]
+                    },
+                    {
+                        "subject": "Contabilidad básica",
+                        "assistances": 24,
+                        "missSchool": 1,
+                        "delays": 6,
+                        "justified": 0,
+                        "canceled": 0,
+                        "percentage": "91%",
+                        "list": [
+                            "assistance",
+                            "missSchool",
+                            "canceled",
+                            "delay",
+                            "assistance",
+                            "canceled",
+                            "delay",
+                            "justified",
+                            "delay",
+                            "canceled",
+                            "assistance",
+                            "delay",
+                            "canceled",
+                            "canceled",
+                            "justified",
+                            "delay",
+                            "delay",
+                            "delay",
+                            "missSchool",
+                            "missSchool",
+                            "assistance",
+                            "missSchool",
+                            "delay"
+                        ]
+                    },
+                    {
+                        "subject": "Matemáticas I",
+                        "assistances": 24,
+                        "missSchool": 3,
+                        "delays": 9,
+                        "justified": 1,
+                        "canceled": 2,
+                        "percentage": "87%",
+                        "list": [
+                            "justified",
+                            "delay",
+                            "canceled",
+                            "delay",
+                            "assistance",
+                            "delay",
+                            "canceled",
+                            "missSchool",
+                            "canceled",
+                            "canceled",
+                            "missSchool",
+                            "delay",
+                            "justified",
+                            "delay",
+                            "missSchool",
+                            "assistance",
+                            "delay",
+                            "assistance",
+                            "missSchool",
+                            "delay",
+                            "justified",
+                            "canceled",
+                            "canceled"
+                        ]
+                    },
+                    {
+                        "subject": "Introducción al derecho",
+                        "assistances": 16,
+                        "missSchool": 0,
+                        "delays": 2,
+                        "justified": 0,
+                        "canceled": 0,
+                        "percentage": "90%",
+                        "list": [
+                            "missSchool",
+                            "delay",
+                            "assistance",
+                            "justified",
+                            "delay",
+                            "delay",
+                            "canceled",
+                            "canceled",
+                            "justified",
+                            "delay",
+                            "canceled",
+                            "delay",
+                            "delay",
+                            "delay",
+                            "missSchool",
+                            "delay",
+                            "canceled",
+                            "justified",
+                            "missSchool",
+                            "canceled",
+                            "delay",
+                            "justified",
+                            "missSchool"
+                        ]
+                    },
+                    {
+                        "subject": "Metodología de la investigación I",
+                        "assistances": 6,
+                        "missSchool": 2,
+                        "delays": 1,
+                        "justified": 0,
+                        "canceled": 1,
+                        "percentage": "92%",
+                        "list": [
+                            "missSchool",
+                            "delay",
+                            "assistance",
+                            "justified",
+                            "canceled",
+                            "justified",
+                            "delay",
+                            "delay",
+                            "delay",
+                            "delay",
+                            "justified",
+                            "missSchool",
+                            "missSchool",
+                            "missSchool",
+                            "missSchool",
+                            "justified",
+                            "canceled",
+                            "assistance",
+                            "canceled",
+                            "canceled",
+                            "assistance",
+                            "delay",
+                            "missSchool"
+                        ]
+                    }
+                ]
+            },
+            {
+                "monthData": {
+                    "month": "SEPTIEMBRE",
+                    "assistances": 129,
+                    "missSchool": 13,
+                    "delays": 42,
+                    "justified": 4,
+                    "canceled": 3,
+                    "percentage": "89%",
+                    "days": [
+                        "Vie 01",
+                        "Lun 04",
+                        "Mar 05",
+                        "Mié 6",
+                        "Jue 07",
+                        "Vie 08",
+                        "Lun 11",
+                        "Mar 12",
+                        "Mié 13",
+                        "Jue 14",
+                        "Vie 15",
+                        "Lun 18",
+                        "Mar 19",
+                        "Mié 20",
+                        "Jue 21",
+                        "Vie 22",
+                        "Lun 25",
+                        "Mar 26",
+                        "Mié 27",
+                        "Jue 28",
+                        "Vie 29"
+                    ]
+                },
+                "especificData": [
+                    {
+                        "subject": "Informática I",
+                        "assistances": 21,
+                        "missSchool": 0,
+                        "delays": 7,
+                        "justified": 0,
+                        "canceled": 1,
+                        "percentage": "100%",
+                        "list": [
+                            "canceled",
+                            "missSchool",
+                            "canceled",
+                            "delay",
+                            "justified",
+                            "missSchool",
+                            "assistance",
+                            "justified",
+                            "assistance",
+                            "justified",
+                            "justified",
+                            "delay",
+                            "justified",
+                            "canceled",
+                            "delay",
+                            "delay",
+                            "missSchool",
+                            "assistance",
+                            "justified",
+                            "assistance",
+                            "assistance"
+                        ]
+                    },
+                    {
+                        "subject": "Administración básica",
+                        "assistances": 22,
+                        "missSchool": 2,
+                        "delays": 11,
+                        "justified": 1,
+                        "canceled": 0,
+                        "percentage": "88%",
+                        "list": [
+                            "assistance",
+                            "missSchool",
+                            "canceled",
+                            "delay",
+                            "assistance",
+                            "canceled",
+                            "delay",
+                            "justified",
+                            "delay",
+                            "canceled",
+                            "assistance",
+                            "delay",
+                            "canceled",
+                            "canceled",
+                            "justified",
+                            "delay",
+                            "delay",
+                            "delay",
+                            "missSchool",
+                            "missSchool",
+                            "canceled"
+                        ]
+                    },
+                    {
+                        "subject": "Contabilidad básica",
+                        "assistances": 24,
+                        "missSchool": 1,
+                        "delays": 6,
+                        "justified": 0,
+                        "canceled": 0,
+                        "percentage": "91%",
+                        "list": [
+                            "assistance",
+                            "missSchool",
+                            "canceled",
+                            "delay",
+                            "assistance",
+                            "canceled",
+                            "delay",
+                            "justified",
+                            "delay",
+                            "canceled",
+                            "assistance",
+                            "delay",
+                            "canceled",
+                            "canceled",
+                            "justified",
+                            "delay",
+                            "delay",
+                            "delay",
+                            "missSchool",
+                            "missSchool",
+                            "canceled"
+                        ]
+                    },
+                    {
+                        "subject": "Matemáticas I",
+                        "assistances": 24,
+                        "missSchool": 3,
+                        "delays": 9,
+                        "justified": 1,
+                        "canceled": 2,
+                        "percentage": "87%",
+                        "list": [
+                            "justified",
+                            "delay",
+                            "canceled",
+                            "delay",
+                            "assistance",
+                            "delay",
+                            "canceled",
+                            "missSchool",
+                            "canceled",
+                            "canceled",
+                            "missSchool",
+                            "delay",
+                            "justified",
+                            "delay",
+                            "missSchool",
+                            "assistance",
+                            "delay",
+                            "assistance",
+                            "missSchool",
+                            "delay",
+                            "justified"
+                        ]
+                    },
+                    {
+                        "subject": "Introducción al derecho",
+                        "assistances": 16,
+                        "missSchool": 0,
+                        "delays": 2,
+                        "justified": 0,
+                        "canceled": 0,
+                        "percentage": "90%",
+                        "list": [
+                            "missSchool",
+                            "delay",
+                            "assistance",
+                            "justified",
+                            "delay",
+                            "delay",
+                            "canceled",
+                            "canceled",
+                            "justified",
+                            "delay",
+                            "canceled",
+                            "delay",
+                            "delay",
+                            "delay",
+                            "missSchool",
+                            "delay",
+                            "canceled",
+                            "justified",
+                            "missSchool",
+                            "canceled",
+                            "delay"
+                        ]
+                    },
+                    {
+                        "subject": "Metodología de la investigación I",
+                        "assistances": 6,
+                        "missSchool": 2,
+                        "delays": 1,
+                        "justified": 0,
+                        "canceled": 1,
+                        "percentage": "92%",
+                        "list": [
+                            "missSchool",
+                            "delay",
+                            "assistance",
+                            "justified",
+                            "canceled",
+                            "justified",
+                            "delay",
+                            "delay",
+                            "delay",
+                            "delay",
+                            "justified",
+                            "missSchool",
+                            "missSchool",
+                            "missSchool",
+                            "missSchool",
+                            "justified",
+                            "canceled",
+                            "assistance",
+                            "canceled",
+                            "canceled",
+                            "assistance"
+                        ]
+                    }
+                ]
+            },
+            {
+                "monthData": {
+                    "month": "OCTUBRE",
+                    "assistances": 145,
+                    "missSchool": 6,
+                    "delays": 33,
+                    "justified": 12,
+                    "canceled": 4,
+                    "percentage": "26%",
+                    "days": [
+                        "Lun 02",
+                        "Mar 03",
+                        "Mié 04",
+                        "Jue 05",
+                        "Vie 06",
+                        "Lun 09",
+                        "Mar 10",
+                        "Mié 11",
+                        "Jue 12",
+                        "Vie 13",
+                        "Lun 16",
+                        "Mar 17",
+                        "Mié 18",
+                        "Jue 19",
+                        "Vie 20",
+                        "Lun 23",
+                        "Mar 24",
+                        "Mié 25",
+                        "Jue 26",
+                        "Vie 27",
+                        "Lun 30",
+                        "Mar 31"
+                    ]
+                },
+                "especificData": [
+                    {
+                        "subject": "Informática I",
+                        "assistances": 21,
+                        "missSchool": 0,
+                        "delays": 7,
+                        "justified": 0,
+                        "canceled": 1,
+                        "percentage": "100%",
+                        "list": [
+                            "delay",
+                            "missSchool",
+                            "justified",
+                            "assistance",
+                            "missSchool",
+                            "missSchool",
+                            "missSchool",
+                            "canceled",
+                            "justified",
+                            "missSchool",
+                            "canceled",
+                            "delay",
+                            "delay",
+                            "missSchool",
+                            "delay",
+                            "justified",
+                            "delay",
+                            "missSchool",
+                            "justified",
+                            "missSchool",
+                            "delay",
+                            "missSchool"
+                        ]
+                    },
+                    {
+                        "subject": "Administración básica",
+                        "assistances": 22,
+                        "missSchool": 2,
+                        "delays": 11,
+                        "justified": 1,
+                        "canceled": 0,
+                        "percentage": "88%",
+                        "list": [
+                            "justified",
+                            "delay",
+                            "delay",
+                            "justified",
+                            "justified",
+                            "canceled",
+                            "justified",
+                            "missSchool",
+                            "missSchool",
+                            "missSchool",
+                            "assistance",
+                            "canceled",
+                            "canceled",
+                            "delay",
+                            "justified",
+                            "missSchool",
+                            "assistance",
+                            "missSchool",
+                            "missSchool",
+                            "assistance",
+                            "assistance",
+                            "assistance"
+                        ]
+                    },
+                    {
+                        "subject": "Contabilidad básica",
+                        "assistances": 22,
+                        "missSchool": 2,
+                        "delays": 11,
+                        "justified": 1,
+                        "canceled": 0,
+                        "percentage": "88%",
+                        "list": [
+                            "canceled",
+                            "missSchool",
+                            "justified",
+                            "missSchool",
+                            "canceled",
+                            "canceled",
+                            "justified",
+                            "assistance",
+                            "canceled",
+                            "missSchool",
+                            "missSchool",
+                            "canceled",
+                            "justified",
+                            "assistance",
+                            "canceled",
+                            "missSchool",
+                            "delay",
+                            "canceled",
+                            "canceled",
+                            "missSchool",
+                            "justified",
+                            "assistance"
+                        ]
+                    },
+                    {
+                        "subject": "Matemáticas I",
+                        "assistances": 22,
+                        "missSchool": 2,
+                        "delays": 11,
+                        "justified": 1,
+                        "canceled": 0,
+                        "percentage": "88%",
+                        "list": [
+                            "delay",
+                            "assistance",
+                            "justified",
+                            "assistance",
+                            "canceled",
+                            "missSchool",
+                            "canceled",
+                            "assistance",
+                            "canceled",
+                            "delay",
+                            "delay",
+                            "canceled",
+                            "justified",
+                            "delay",
+                            "assistance",
+                            "missSchool",
+                            "assistance",
+                            "justified",
+                            "assistance",
+                            "assistance",
+                            "assistance",
+                            "missSchool"
+                        ]
+                    },
+                    {
+                        "subject": "Introducción al derecho",
+                        "assistances": 22,
+                        "missSchool": 2,
+                        "delays": 11,
+                        "justified": 1,
+                        "canceled": 0,
+                        "percentage": "88%",
+                        "list": [
+                            "delay",
+                            "missSchool",
+                            "delay",
+                            "justified",
+                            "canceled",
+                            "canceled",
+                            "missSchool",
+                            "missSchool",
+                            "justified",
+                            "canceled",
+                            "canceled",
+                            "justified",
+                            "delay",
+                            "canceled",
+                            "delay",
+                            "delay",
+                            "justified",
+                            "canceled",
+                            "assistance",
+                            "delay",
+                            "canceled",
+                            "assistance"
+                        ]
+                    },
+                    {
+                        "subject": "Metodología de la investigación I",
+                        "assistances": 22,
+                        "missSchool": 2,
+                        "delays": 11,
+                        "justified": 1,
+                        "canceled": 0,
+                        "percentage": "88%",
+                        "list": [
+                            "missSchool",
+                            "justified",
+                            "justified",
+                            "assistance",
+                            "delay",
+                            "missSchool",
+                            "missSchool",
+                            "assistance",
+                            "justified",
+                            "assistance",
+                            "missSchool",
+                            "canceled",
+                            "assistance",
+                            "missSchool",
+                            "assistance",
+                            "missSchool",
+                            "assistance",
+                            "delay",
+                            "canceled",
+                            "justified",
+                            "justified",
+                            "canceled"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

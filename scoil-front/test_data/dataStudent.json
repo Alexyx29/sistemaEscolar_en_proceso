@@ -1,0 +1,12 @@
+{
+    "student": {
+        "id": 1,
+        "name": "Lara Sofía",
+        "lastName": "Laborde Revilla",
+        "career": "Lic. en Administración",
+        "enrolment": "50CK28",
+        "average": 8.2,
+        "currentCourse": "PRIMER CUATRIMESTRE",
+        "notifications": 11
+    }
+}

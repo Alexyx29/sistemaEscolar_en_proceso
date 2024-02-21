@@ -1,0 +1,12 @@
+{
+    "parent": {
+        "id": 1,
+        "name": "Agustín",
+        "lastName": "Valdes Altamirano",
+        "career": "Lic. en Administración",
+        "enrolment": "50CK28",
+        "average": 8.2,
+        "currentCourse": "PRIMER CUATRIMESTRE",
+        "notifications": 11
+    }
+}

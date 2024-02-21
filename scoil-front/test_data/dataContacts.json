@@ -1,0 +1,44 @@
+{
+    "contacts": [
+        {
+            "name": "Alberto Ramírez Sánchez",
+            "role": "Profesor"
+        },
+        {
+            "name": "Alejandra Rojas",
+            "role": "Alumna"
+        },
+        {
+            "name": "Amauri Urquiza Vega",
+            "role": "Alumno"
+        },
+        {
+            "name": "Daniela Marlene Ramírez Zamudio",
+            "role": "Alumna"
+        },
+        {
+            "name": "Alberto Martín Allende Rodríguez",
+            "role": "Responsable"
+        },
+        {
+            "name": "Ángela Aguilar Muñoz",
+            "role": "Alumna"
+        },
+        {
+            "name": "Arturo Montoya Fuentes",
+            "role": "Profesor"
+        },
+        {
+            "name": "Carlos Antonio Gonzáles Herrera",
+            "role": "Responsable"
+        },
+        {
+            "name": "Cristian Herrera López",
+            "role": "Profesor"
+        },
+        {
+            "name": "Alexis M Altamirano",
+            "role": "Responsable"
+        }
+    ]
+}

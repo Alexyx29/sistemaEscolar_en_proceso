@@ -1,0 +1,92 @@
+{
+    "news": [
+        {
+            "title": "Junta de Consejo Técnico",
+            "name": "Alberto Ramírez Gonzáles",
+            "role": "Profesor",
+            "time": "Hoy, 10:25",
+            "content": "Litora curae tincidunt quam a netus mus erat nascetur, euismod tristique vestibulum tellus ante nisi ornare lectus sem, urna pharetra pulvinar facilisi augue himenaeos bibendum. Habitant sociis aptent vel integer ultrices aliquam mollis justo netus nec natoque, fames convallis nisl fermentum suspendisse fusce in vitae luctus venenatis tempus, nascetur a id ac ridiculus sed dui eleifend turpis ultricies. Tempor facilisi ultricies consequat montes fringilla platea feugiat, aenean quisque justo nulla condimentum malesuada, erat arcu placerat pharetra quis phasellus. Lorem ipsum dolor sit, amet consectetur adipiscing, elit ultrices. Venenatis a congue montes socils, fusce pretium maecenas. Placerat rhoncus etiam habitasse himenaeos est, venenatis sollicitudin donec. Tellus et vehicula cum faucibus, diam curabitur Sociosqu ultricies nec vitae tempor dis porta, justo ullamcorper dui lobortis. Nullam mattis phasellus lacus nam facilisi ut nisi dictum urna vehicula justo cubilia aenean, erat semper felis nisl laculis curae eros dapibus curabitur viverra scelerisque rhoncus montes rutrum, per nec leo porta ornare sociis turpis mus auctor magna libero enim.",
+            "calendar": false
+        },
+        {
+            "title": "¡Feliz día de las madres!",
+            "name": "Arturo Montoya Fuentes",
+            "role": "Profesor",
+            "time": "10 Mayo, 2023",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum at orci interdum, mattis nisl non, ultrices elit. Vivamus tempus faucibus turpis vitae",
+            "calendar": false
+        },
+        {
+            "title": "Festival deportivo",
+            "name": "Alberto Ramírez Gonzáles",
+            "role": "Profesor",
+            "time": "29 Abril, 2023",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum at orci interdum, mattis nisl non, ultrices elit.",
+            "calendar": true
+        },
+        {
+            "title": "Campaña contra el bullying escolar",
+            "name": "Lizeth Alvares Camacho",
+            "role": "Profesor",
+            "time": "5 julio, 2022",
+            "content": "Nullam mattis phasellus lacus nam facilisi ut nisi dictum urna vehicula justo cubilia aenean, erat semper felis nisl iaculis curae eros dapibus curabitur viverra scelerisque rhoncus montes rutrum, per nec leo porta ornare sociis turpis mus auctor magna libero enim. •Lorem ipsum dolor sit, amet consectetur adipiscing, elit ultrices.•Venenatis a congue montes sociis, fusce pretium maecenas.•Placerat rhoncus etiam habitasse himenaeos est, venenatis sollicitudin donec.•Tellus et vehicula cum faucibus, diam curabitur.Sociosqu purus est nullam sagittis feugiat tincidunt porta at ligula, risus magna facilisi accumsan montes per mattis suscipit malesuada lacinia, blandit enim egestas urna sapien sed penatibus dis. Nisl platea augue volutpat habitasse placerat non cubilia lacus eleifend donec, parturient tincidunt vel iaculis tellus in sociosqu aenean id, vitae suscipit etiam fames ante nulla sagittis dignissim at. Inceptos proin malesuada fringilla nascetur massa dis porttitor tristique egestas odio, nec senectus ornare litora primis ac facilisis tellus vehicula venenatis, enim justo euismod vitae tortor erat nulla nisi scelerisque. Felis suspendisse habitasse fames id primis etiam auctor pretium donec vestibulum, libero hac tincidunt ornare mollis sapien quisque conubia pulvinar duis vitae, habitant senectus curabitur hendrerit aliquet faucibus maecenas viverra proin.Vehicula commodo in vivamus lectus at eleifend interdum congue, maecenas mollis dapibus inceptos integer quam neque, dictumst phasellus porttitor praesent aliquam ac duis torquent, id curae penatibus ultricies taciti venenatis. Hendrerit sollicitudin nibh ornare tristique, sodales fames nisl cras interdum, tortor porta cum. Arcu ad auctor tempus consequat montes penatibus ornare euismod, nisi faucibus inceptos quis pretium curabitur mi fames, lacus magna primis massa felis nascetur quam.",
+            "calendar": false
+        },
+        {
+            "title": "incididunt labore et dolore",
+            "name": "Lizeth Alvares Camacho",
+            "role": "Profesor",
+            "time": "5 julio, 2022",
+            "content": "Adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna adipis cing elit, sed do eiusmod tempor  aliqua…",
+            "calendar": false            
+        },
+        {
+            "title": "sed do eiusmod",
+            "name": "Lizeth Alvares Camacho",
+            "role": "Profesor",
+            "time": "5 julio, 2022",
+            "content": "sed do eiusmod lorem ipsum dolor sit amet, adipiscing elit, sed do eiusmod tempor consectetur adipiscing elit.",
+            "calendar": false
+        },
+        {
+            "title": "sit AMET",
+            "name": "Lizeth Alvares Camacho",
+            "role": "Profesor",
+            "time": "5 julio, 2022",
+            "content": "Lorem ipsum dolor sit amet, consectetur.",
+            "calendar": false
+        },
+        {
+            "title": "incididunt ut labore magna",
+            "name": "Lizeth Alvares Camacho",
+            "role": "Profesor",
+            "time": "5 julio, 2022",
+            "content": "Sit amet, consectetur adipiscing elit, sed do eiusmod ut labore et dolore magna adipis cing elit, sed do eiusmod tempor  aliqua…",
+            "calendar": false
+        },
+        {
+            "title": "sed do eiusmod",
+            "name": "Lizeth Alvares Camacho",
+            "role": "Profesor",
+            "time": "5 julio, 2022",
+            "content": "sed do eiusmod lorem ipsum dolor sit amet, adipiscing elit, sed do eiusmod tempor consectetur adipiscing elit.",
+            "calendar": false
+        },
+        {
+            "title": "sit AMET",
+            "name": "Lizeth Alvares Camacho",
+            "role": "Profesor",
+            "time": "5 julio, 2022",
+            "content": "Lorem ipsum dolor sit amet, consectetur.",
+            "calendar": true
+        },
+        {
+            "title": "incididunt ut labore magna",
+            "name": "Lizeth Alvares Camacho",
+            "role": "Profesor",
+            "time": "5 julio, 2022",
+            "content": "Sit amet, consectetur adipiscing elit, sed do eiusmod ut labore et dolore magna adipis cing elit, sed do eiusmod tempor  aliqua…",
+            "calendar": true
+        }
+    ]
+}

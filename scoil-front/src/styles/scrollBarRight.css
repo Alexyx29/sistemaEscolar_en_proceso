@@ -1,0 +1,9 @@
+.scrollbar::-webkit-scrollbar {
+    width: 0em;
+    height: 0em;
+}
+
+.scrollbar::-webkit-scrollbar-thumb {
+    background-color: darkgrey;
+    outline: 0px solid slategrey;
+}

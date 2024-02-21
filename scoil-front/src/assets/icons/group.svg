@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="60" height="60" viewBox="0 0 66 66">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_236" data-name="Rectángulo 236" width="66" height="66" fill="none" stroke="#bebebe" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_1098" data-name="Grupo 1098" transform="translate(-6 -6)">
+    <g id="Grupo_850" data-name="Grupo 850" transform="translate(6 6)" clip-path="url(#clip-path)">
+      <path id="hombre_9" d="M33,0A33,33,0,1,1,0,33,33,33,0,0,1,33,0" fill="#0082c9"/>
+      <path id="user-group-solid" d="M6.413,8.55a8.55,8.55,0,1,1,8.55,8.55,8.55,8.55,0,0,1-8.55-8.55ZM0,32.216a11.908,11.908,0,0,1,11.91-11.91h6.105a11.908,11.908,0,0,1,11.91,11.91A1.984,1.984,0,0,1,27.941,34.2H1.984A1.984,1.984,0,0,1,0,32.216ZM40.7,34.2H31.488a4.278,4.278,0,0,0,.574-2.138v-.534A13.328,13.328,0,0,0,27.4,21.388c.16-.007.314-.013.474-.013h4.1A10.773,10.773,0,0,1,42.75,32.149,2.051,2.051,0,0,1,40.7,34.2ZM28.856,17.1a7.466,7.466,0,0,1-5.3-2.2,10.692,10.692,0,0,0,.868-11.315A7.482,7.482,0,1,1,28.856,17.1Z" transform="translate(11.625 15.9)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

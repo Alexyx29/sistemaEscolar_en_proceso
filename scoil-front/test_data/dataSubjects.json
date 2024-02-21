@@ -1,0 +1,450 @@
+{
+    "average" : 8.2,
+    "grade" : "PRIMER CUATRIMESTRE",
+    "subjects": [
+        {
+            "name": "Estrategias para el estudio y la comunicación",
+            "score": 8.3,
+            "assistance": 100,
+            "schedule": "07/05/2023 - 07/09/2023",
+            "professorName": "Manuel Alberto",
+            "professorLastName": "Rosales San Agustín",
+            "course": "Primer Cuatrimestre",
+            "scales": [
+                {
+                    "title": "Asistencia",
+                    "score": 6.8,
+                    "scale": 10,
+                    "params": [
+                        {
+                            "title": "Asistencia",
+                            "score": 10,
+                            "scale": 10
+                        }
+                    ]
+                },
+                {
+                    "title": "Examen",
+                    "score": 50,
+                    "scale": 60,
+                    "params": [
+                        {
+                            "title": "Resumen de conceptos",
+                            "score": 10,
+                            "scale": 10
+                        },
+                        {
+                            "title": "Análisis profundo de Teorías Administrativas",
+                            "score": 10,
+                            "scale": 20
+                        },
+                        {
+                            "title": "Innovación y Cambio Empresarial",
+                            "score": 10,
+                            "scale": 10
+                        },
+                        {
+                            "title": "Gestión Estratégica de Recursos y Talento",
+                            "score": 20,
+                            "scale": 20
+                        }
+                    ]
+                },
+                {
+                    "title": "Tareas",
+                    "score": 15,
+                    "scale": 30,
+                    "params": [
+                        {
+                            "title": "Análisis de Caso: Estrategias de Liderazgo",
+                            "score": 10,
+                            "scale": 10
+                        },
+                        {
+                            "title": "Desarrollo de un Plan Empresarial Básico",
+                            "score": 0,
+                            "scale": 20
+                        },
+                        {
+                            "title": "Resolución de Conflictos Organizacionales",
+                            "score": 0,
+                            "scale": 20
+                        }
+                    ]
+                },
+                {
+                    "title": "Puntos Extra",
+                    "score": 12,
+                    "scale": 15,
+                    "params": [
+                        {
+                            "title": "Ensayo. La Evolución del Liderazgo Empresarial: Retos y Perspectivas",
+                            "score": 15,
+                            "scale": 15
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Introducción al Derecho",
+            "score": 8.0,
+            "assistance": 75,
+            "schedule": "07/05/2023 - 07/09/2023",
+            "professorName": "Manuel Alberto",
+            "professorLastName": "Rosales San Agustín",
+            "course": "Primer Cuatrimestre",
+            "scales": [
+                {
+                    "title": "Asistencia",
+                    "score": 10,
+                    "scale": 10,
+                    "params": [
+                        {
+                            "title": "Asistencia",
+                            "score": 10,
+                            "scale": 10
+                        }
+                    ]
+                },
+                {
+                    "title": "Examen",
+                    "score": 50,
+                    "scale": 60,
+                    "params": [
+                        {
+                            "title": "Resumen de conceptos",
+                            "score": 10,
+                            "scale": 10
+                        },
+                        {
+                            "title": "Análisis profundo de Teorías Administrativas",
+                            "score": 10,
+                            "scale": 20
+                        }
+                    ]
+                },
+                {
+                    "title": "Tareas",
+                    "score": 10,
+                    "scale": 30,
+                    "params": [
+                        {
+                            "title": "Análisis de Caso: Estrategias de Liderazgo",
+                            "score": 10,
+                            "scale": 10
+                        },
+                        {
+                            "title": "Ensayo",
+                            "score": 10,
+                            "scale": 10
+                        }
+                    ]
+                },
+                {
+                    "title": "Puntos Extra",
+                    "score": 12,
+                    "scale": 15,
+                    "params": [
+                        {
+                            "title": "Ensayo.",
+                            "score": 15,
+                            "scale": 15
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Contabilidad I",
+            "score": 8.5,
+            "assistance": 100,
+            "schedule": "07/05/2023 - 07/09/2023",
+            "professorName": "Manuel Alberto",
+            "professorLastName": "Rosales San Agustín",
+            "course": "Primer Cuatrimestre",
+            "scales": [
+                {
+                    "title": "Asistencia",
+                    "score": 10,
+                    "scale": 10,
+                    "params": [
+                        {
+                            "title": "Asistencia",
+                            "score": 10,
+                            "scale": 10
+                        }
+                    ]
+                },
+                {
+                    "title": "Examen",
+                    "score": 50,
+                    "scale": 60,
+                    "params": [
+                        {
+                            "title": "Resumen de conceptos",
+                            "score": 10,
+                            "scale": 10
+                        },
+                        {
+                            "title": "Análisis profundo de Teorías Administrativas",
+                            "score": 10,
+                            "scale": 20
+                        },
+                        {
+                            "title": "Análisis de Caso: Estrategias de Liderazgo",
+                            "score": 10,
+                            "scale": 10
+                        }
+                    ]
+                },
+                {
+                    "title": "Tareas",
+                    "score": 10,
+                    "scale": 30,
+                    "params": [
+                        {
+                            "title": "Análisis de Caso: Estrategias de Liderazgo",
+                            "score": 10,
+                            "scale": 10
+                        },
+                        {
+                            "title": "Ensayo argumentativo del libro Padre...",
+                            "score": 10,
+                            "scale": 10
+                        }
+                    ]
+                },
+                {
+                    "title": "Puntos Extra",
+                    "score": 12,
+                    "scale": 15,
+                    "params": [
+                        {
+                            "title": "Ensayo.",
+                            "score": 15,
+                            "scale": 15
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Matemáticas I",
+            "score": 8.0,
+            "assistance": 100,
+            "schedule": "07/05/2023 - 07/09/2023",
+            "professorName": "Manuel Alberto",
+            "professorLastName": "Rosales San Agustín",
+            "course": "Primer Cuatrimestre",
+            "scales": [
+                {
+                    "title": "Asistencia",
+                    "score": 10,
+                    "scale": 10,
+                    "params": [
+                        {
+                            "title": "Asistencia",
+                            "score": 10,
+                            "scale": 10
+                        }
+                    ]
+                },
+                {
+                    "title": "Examen",
+                    "score": 50,
+                    "scale": 60,
+                    "params": [
+                        {
+                            "title": "Resumen de conceptos",
+                            "score": 10,
+                            "scale": 10
+                        },
+                        {
+                            "title": "Análisis profundo de Teorías Administrativas",
+                            "score": 10,
+                            "scale": 20
+                        },
+                        {
+                            "title": "Ensayo",
+                            "score": 10,
+                            "scale": 10
+                        }
+                    ]
+                },
+                {
+                    "title": "Tareas",
+                    "score": 10,
+                    "scale": 30,
+                    "params": [
+                        {
+                            "title": "Análisis de Caso: Estrategias de Liderazgo",
+                            "score": 10,
+                            "scale": 10
+                        },
+                        {
+                            "title": "Ensayo",
+                            "score": 10,
+                            "scale": 10
+                        }
+                    ]
+                },
+                {
+                    "title": "Puntos Extra",
+                    "score": 12,
+                    "scale": 15,
+                    "params": [
+                        {
+                            "title": "Ensayo.",
+                            "score": 15,
+                            "scale": 15
+                        },
+                        {
+                            "title": "Ejercicios.",
+                            "score": 15,
+                            "scale": 15
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Informática I",
+            "score": 8.5,
+            "assistance": 50,
+            "schedule": "07/05/2023 - 07/09/2023",
+            "professorName": "Manuel Alberto",
+            "professorLastName": "Rosales San Agustín",
+            "course": "Primer Cuatrimestre",
+            "scales": [
+                {
+                    "title": "Asistencia",
+                    "score": 10,
+                    "scale": 10,
+                    "params": [
+                        {
+                            "title": "Asistencia",
+                            "score": 10,
+                            "scale": 10
+                        }
+                    ]
+                },
+                {
+                    "title": "Examen",
+                    "score": 50,
+                    "scale": 60,
+                    "params": [
+                        {
+                            "title": "Resumen de conceptos",
+                            "score": 10,
+                            "scale": 10
+                        },
+                        {
+                            "title": "Análisis profundo de Teorías Administrativas",
+                            "score": 10,
+                            "scale": 20
+                        },
+                        {
+                            "title": "Ensayo",
+                            "score": 10,
+                            "scale": 10
+                        }
+                    ]
+                },
+                {
+                    "title": "Tareas",
+                    "score": 10,
+                    "scale": 30,
+                    "params": [
+                        {
+                            "title": "Análisis de Caso: Estrategias de Liderazgo",
+                            "score": 10,
+                            "scale": 10
+                        }
+                    ]
+                },
+                {
+                    "title": "Puntos Extra",
+                    "score": 12,
+                    "scale": 15,
+                    "params": [
+                        {
+                            "title": "Ensayo.",
+                            "score": 15,
+                            "scale": 15
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Introducción a la Administración",
+            "score": 8.0,
+            "assistance": 80,
+            "schedule": "07/05/2023 - 07/09/2023",
+            "professorName": "Manuel Alberto",
+            "professorLastName": "Rosales San Agustín",
+            "course": "Primer Cuatrimestre",
+            "scales": [
+                {
+                    "title": "Asistencia",
+                    "score": 10,
+                    "scale": 10,
+                    "params": [
+                        {
+                            "title": "Asistencia",
+                            "score": 10,
+                            "scale": 10
+                        }
+                    ]
+                },
+                {
+                    "title": "Examen",
+                    "score": 50,
+                    "scale": 60,
+                    "params": [
+                        {
+                            "title": "Resumen de conceptos",
+                            "score": 10,
+                            "scale": 10
+                        },
+                        {
+                            "title": "Análisis profundo de Teorías Administrativas",
+                            "score": 10,
+                            "scale": 20
+                        }
+                    ]
+                },
+                {
+                    "title": "Tareas",
+                    "score": 10,
+                    "scale": 30,
+                    "params": [
+                        {
+                            "title": "Análisis de Caso: Estrategias de Liderazgo",
+                            "score": 10,
+                            "scale": 10
+                        },
+                        {
+                            "title": "Ensayo",
+                            "score": 10,
+                            "scale": 10
+                        }
+                    ]
+                },
+                {
+                    "title": "Puntos Extra",
+                    "score": 12,
+                    "scale": 15,
+                    "params": [
+                        {
+                            "title": "Ensayo.",
+                            "score": 15,
+                            "scale": 15
+                        }
+                    ]
+                }
+            ]
+        }        
+    ]
+}
